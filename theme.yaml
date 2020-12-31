@@ -1,0 +1,11 @@
+id: pisces
+name: Pisces
+author:
+  name: caoyu
+  website: https://caoyu.run
+description:
+logo:
+website: https://github.com/pinuocho/halo-theme-pisces
+repo: https://github.com/pinuocho/halo-theme-pisces
+version: 0.0.1
+require: 1.3.0
